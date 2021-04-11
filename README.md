@@ -88,7 +88,7 @@
 >
 > - 마인드위키 로고를 클릭하면 3가지의 버튼이 등장
 
-<img src="https://user-images.githubusercontent.com/45623764/114313699-85c6cb00-9b32-11eb-91a9-64eeb96d998c.jpeg" width="33%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114313702-88c1bb80-9b32-11eb-8f1b-96010fc8e84b.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114313699-85c6cb00-9b32-11eb-91a9-64eeb96d998c.jpeg" width="32%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114313702-88c1bb80-9b32-11eb-8f1b-96010fc8e84b.jpeg" width="32%">
 
 <br/>
 
@@ -105,7 +105,7 @@
 > - 시연영상 
 >   - 유튜브에 업로드 되어있는 시연영상페이지로 이동
 
-<img src="https://user-images.githubusercontent.com/45623764/114313894-6a0ff480-9b33-11eb-9013-1d44384c775c.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114313891-68463100-9b33-11eb-81de-117159adfff9.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114313903-798f3d80-9b33-11eb-803f-44f883bebb9e.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114313894-6a0ff480-9b33-11eb-9013-1d44384c775c.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114313891-68463100-9b33-11eb-81de-117159adfff9.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114313903-798f3d80-9b33-11eb-803f-44f883bebb9e.jpeg" width="32%">
 
 <br/>
 
@@ -123,7 +123,7 @@
 >   - 좋아요 누른 게시물만 보여짐
 > - 작성자를 누르면, 작성자의 프로필 화면이 뜨고 팔로우할 수 있음
 
-<img src="https://user-images.githubusercontent.com/45623764/114314124-5e70fd80-9b34-11eb-843b-310ffc7c8a15.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114314122-5a44e000-9b34-11eb-85aa-8f69f109b2d7.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114314132-64ff7500-9b34-11eb-9549-da6586ae73a2.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314124-5e70fd80-9b34-11eb-843b-310ffc7c8a15.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314122-5a44e000-9b34-11eb-85aa-8f69f109b2d7.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314132-64ff7500-9b34-11eb-9549-da6586ae73a2.jpeg" width="32%">
 
 <br/>
 
@@ -132,7 +132,7 @@
 > - 하단 nav에서 가운데 버튼 클릭
 > - 썸네일을 지정하지 않으면, 작성한 마인드맵이 캡처되어 썸네일로 저장됨(뒤에 나옴)
 
-<img src="https://user-images.githubusercontent.com/45623764/114314330-21f1d180-9b35-11eb-9c12-c80a16ca89aa.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314330-21f1d180-9b35-11eb-9c12-c80a16ca89aa.jpeg" width="32%">
 
 <br/>
 
@@ -140,7 +140,7 @@
 >
 > - 마인드맵이 생성되었으면 각 노드를 클릭하여 자식노드를 생성
 
-<img src="https://user-images.githubusercontent.com/45623764/114314418-84e36880-9b35-11eb-9aa5-8f9b8e67d379.jpeg" width="33%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314424-8876ef80-9b35-11eb-93c7-65df05ea5d4a.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314418-84e36880-9b35-11eb-9aa5-8f9b8e67d379.jpeg" width="32%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314424-8876ef80-9b35-11eb-93c7-65df05ea5d4a.jpeg" width="32%">
 
 <br/>
 
@@ -149,7 +149,7 @@
 > - 모든 수정이 완료되면, 오른쪽 상단의 완료를 누름
 > - 썸네일을 지정하지 않은 게시물의 경우, 작성한 마인드가 캡처되어 썸네일로 지정됨
 
-<img src="https://user-images.githubusercontent.com/45623764/114314604-5ca83980-9b36-11eb-8ca8-0ab157706841.jpeg" width="33%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314609-616ced80-9b36-11eb-87cb-e8ba67eee2cd.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314604-5ca83980-9b36-11eb-8ca8-0ab157706841.jpeg" width="32%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314609-616ced80-9b36-11eb-87cb-e8ba67eee2cd.jpeg" width="32%">
 
 <br/>
 
@@ -163,7 +163,7 @@
 >   - 상단 댓글 검색을 통해 원하는 댓글을 찾을 수 있음
 >   - 본인이 작성한 댓글을 삭제할 수 있음
 
-<img src="https://user-images.githubusercontent.com/45623764/114314812-39ca5500-9b37-11eb-92c3-205aa5a3cd96.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114314819-40f16300-9b37-11eb-81b2-ddda27e11fe8.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114314833-4a7acb00-9b37-11eb-8b4b-a2f4d3cb62cc.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314812-39ca5500-9b37-11eb-92c3-205aa5a3cd96.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314819-40f16300-9b37-11eb-81b2-ddda27e11fe8.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314833-4a7acb00-9b37-11eb-8b4b-a2f4d3cb62cc.jpeg" width="32%">
 
 <br/>
 
@@ -183,7 +183,7 @@
 >   - 탭으로 구분되어있어 팔로워와 팔로잉을 한 페이지에서 볼 수 있음
 >   - 팔로잉 탭의 경우, 팔로우 취소가능(쓰레기통 아이콘이 있음)
 
-<img src="https://user-images.githubusercontent.com/45623764/114314963-de4c9700-9b37-11eb-9f63-5b7764264ce5.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114314999-00461980-9b38-11eb-8eb0-14e0562a07e3.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114315155-88c4ba00-9b38-11eb-8ae1-b73d6a1d744d.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114314963-de4c9700-9b37-11eb-9f63-5b7764264ce5.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114314999-00461980-9b38-11eb-8eb0-14e0562a07e3.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114315155-88c4ba00-9b38-11eb-8ae1-b73d6a1d744d.jpeg" width="32%">
 
 <br/>
 
@@ -196,7 +196,7 @@
 > - 하단 nav 종 아이콘을 클릭하면 활동 알림 페이지로 이동
 >   - 다른 사용자가 본인의 게시글을 좋아요/스크랩 하는 경우 알림이 쌓임
 
-<img src="https://user-images.githubusercontent.com/45623764/114315250-10aac400-9b39-11eb-916a-ef086fa3c8f6.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114315383-beb66e00-9b39-11eb-9871-f4615e44569e.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114315250-10aac400-9b39-11eb-916a-ef086fa3c8f6.jpeg" width="32%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114315383-beb66e00-9b39-11eb-9871-f4615e44569e.jpeg" width="32%">
 
 <br/>
 
@@ -204,7 +204,7 @@
 >
 > - 메인페이지의 상단 ...을 누르면 드롭메뉴가 등장
 
-<img src="https://user-images.githubusercontent.com/45623764/114315455-105ef880-9b3a-11eb-8e35-b8915a853765.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114315480-1fde4180-9b3a-11eb-97e3-ebf6b4d0045c.jpeg" width="33%"><img src="https://user-images.githubusercontent.com/45623764/114315483-210f6e80-9b3a-11eb-8886-7280b27ae623.jpeg" width="33%">
+<img src="https://user-images.githubusercontent.com/45623764/114315455-105ef880-9b3a-11eb-8e35-b8915a853765.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114315480-1fde4180-9b3a-11eb-97e3-ebf6b4d0045c.jpeg" width="32%">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/45623764/114315483-210f6e80-9b3a-11eb-8886-7280b27ae623.jpeg" width="32%">
 
 <br/>
 

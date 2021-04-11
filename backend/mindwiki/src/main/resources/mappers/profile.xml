@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.mindwiki.dao.ProfileDao">
+
+	<insert id="register" parameterType="com.mindwiki.model.ProfileDto">
+		 INSERT INTO profile (email, password, realName, nickName, hashtag)
+                    VALUES  (#{email}, #{password}, #{realName}, #{nickName}, #{hashtag} ) 
+	</insert>
+	
+	<select id="sameEmailCnt" parameterType="com.mindwiki.model.ProfileDto" resultType="int">
+		SELECT EXISTS (SELECT * FROM profile WHERE email=#{email}) as success;
+	</select>
+	
+	<select id="checkPassword" parameterType="com.mindwiki.model.ProfileDto" resultType="int">
+		SELECT EXISTS (SELECT * FROM profile WHERE email=#{email} AND password=#{password} )
+	</select>
+	
+	<delete id="withdrawal" parameterType="com.mindwiki.model.ProfileDto">
+		DELETE FROM profile
+		WHERE email=#{email}
+	</delete>
+	
+	<update id="updatePassword" parameterType="com.mindwiki.model.ProfileDto">
+		UPDATE profile
+		SET password=#{password}
+		WHERE email=#{email}
+	</update>
+	
+	<update id="updateProfile" parameterType="com.mindwiki.model.ProfileDto">
+		UPDATE profile
+		SET phoneNumber=#{phoneNumber}, nickName=#{nickName}, profileDefaultPic=#{profileDefaultPic}
+		WHERE email=#{email}
+	</update>
+	
+	<update id="updateProfileDefaultPic" parameterType="com.mindwiki.model.ProfileDto">
+		UPDATE profile
+		SET profileDefaultPic=#{profileDefaultPic}
+		WHERE email=#{email}
+	</update>
+	
+	<update id="updatePhonenumber" parameterType="com.mindwiki.model.ProfileDto">
+		UPDATE profile
+		SET phoneNumber=#{phoneNumber}
+		WHERE email=#{email}
+	</update>
+	
+	<update id="updateNickname" parameterType="com.mindwiki.model.ProfileDto">
+		UPDATE profile
+		SET nickName=#{nickName}
+		WHERE email=#{email}
+	</update>
+	
+	<select id="getProfileID" parameterType="com.mindwiki.model.ProfileDto" resultType="int">
+		SELECT ProfileID
+		FROM profile
+		WHERE email=#{email}
+	</select>
+	
+	<select id="memberList" resultType="com.mindwiki.model.ProfileDto">
+		SELECT email, nickName, profileDefaultPic FROM profile
+	</select>
+	
+	<select id="getProfilePic" resultType="String">
+		SELECT profileDefaultPic FROM profile where email=#{email}
+	</select>
+	
+	<select id="getMyProfile" resultType="com.mindwiki.model.ProfileDto">
+		SELECT email, realName, nickName, followerListID, phoneNumber, profileDefaultPic FROM profile where email=#{email}
+	</select>
+	
+		
+</mapper>

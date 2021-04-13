@@ -16,9 +16,9 @@
 
 | 역할 | 이름     | 포지션   | Github                                                    |
 | ---- | -------- | -------- | --------------------------------------------------------- |
-| 팀장 | 🐹 황윤호 | Frontend |                                                           |
+| 팀장 | 🐹 황윤호 | Frontend |  [@hossi-py](https://github.com/hossi-py)    |
 | 팀원 | 🐼 김정웅 | Backend  |                                                           |
-|      | 🦁 신충현 | Backend  | [@chyn00](https://github.com/chyn00)                      |
+|      | 🦁 신충현 | Backend  | [@chyn00](https://github.com/chyn00)    |
 |      | 🐻 오민택 | Frontend |                                                           |
 |      | 🐸 윤지선 | Frontend | [@giga1615](https://github.com/giga1615?tab=repositories) |
 
